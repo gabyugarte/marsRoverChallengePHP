@@ -1,0 +1,22 @@
+{
+    "name": "swkberlin/php",
+    "description": "Shell project for PHP testing",
+    "autoload": {
+        "psr-4": {
+            "MarsRovers\\": "src/"
+
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "license": "none",
+    "authors": [
+        {
+            "name": "Gaby Ugarte",
+            "email": "gabrielaugartemaco@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
