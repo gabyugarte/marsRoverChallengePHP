@@ -1,5 +1,5 @@
 # marsRoverChallengePHP
-Mars Rover Kata
+
 ==========
 
 Description
